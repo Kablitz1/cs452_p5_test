@@ -1,7 +1,7 @@
 {
     "assets": {
-        "map_tileset": {"type": "image", "source": "assets/images/open_tileset.png"},
-        "male_fighter_spritesheet": {"type": "spritesheet", "source": "assets/images/characters/fighter_m.png", "frame_width": 24, "frame_height": 32},
+        "map_tileset": {"type": "image", "source": "assets/images/open_tileset2.png"},
+        "male_fighter_spritesheet": {"type": "spritesheet", "source": "assets/images/characters/vehicle.png", "frame_width": 24, "frame_height": 32},
         
         "level_tilemap": {"type": "tilemap", "source": "assets/maps/map1.json"}
     },
